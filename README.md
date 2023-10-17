@@ -22,12 +22,12 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 
 To start using this extension, follow these steps:
 
-1. Download the extension from the Chrome Web Store (link coming soon).
+1. Download the extension from the Chrome Web Store 
 2. Add the extension to your Chrome browser.
 3. Open the eBay website and log in to your account.
 4. Select the specific one-month period for which you want to generate sales data.
 5. Click the "Generate eBay Sales" button to create a table of your sales.
-6. Use the "Copy to Clipboard" button to copy the sales data if needed.
+6. Use the "Copy to Clipboard" button to copy the sales data if needed at this point.
 7. After generating eBay sales, the "Get Post Fees" button will become enabled.
 8. Click the "Get Post Fees" button to create a table of postage fees.
 9. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
