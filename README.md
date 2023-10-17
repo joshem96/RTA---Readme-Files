@@ -42,8 +42,8 @@ To start using this extension, follow these steps:
 
 - If you encounter any other issues, we recommend fully loading the eBay page first, followed by the Australia Post page, and then generating your sales data. Ensure that you have selected a valid one-month date range.
 
-## Contact
+## Thank you!
 
-We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
+Thank you so much for using this tool in your workflow! We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
 
 We're always eager to hear from our users and improve the extension based on your feedback. We hope you find this tool helpful!
