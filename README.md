@@ -46,4 +46,4 @@ To start using this extension, follow these steps:
 
 We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
 
-You can contact us by sending an email to [your_email@example.com](mailto:your_email@example.com). We're always eager to hear from our users and improve the extension based on your feedback. Enjoy using the eBay and Australia Post Summary Chrome Extension!
+We're always eager to hear from our users and improve the extension based on your feedback. We hope you find this tool helpful!
