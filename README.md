@@ -1,28 +1,31 @@
 # Ecommerce Tools Australia
 
-Welcome to the Re Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post. With just a few clicks, you can quickly access valuable information about your eBay sales and postage costs.
+Welcome to the Ecommerce Tools Australia Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post, along with other providing helpful features to make your processes within your ecommerce store more efficient and convenient. 
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#installation-and-set-up)
 - [Sales & Post Fees Summary](#sales-and-post-fees-summary)
 - [My Post Business Tools](#My-Post-Business-Tools)
 - [Known Issues](#known-issues)
 - [Ending Notes](#thank-you)
 
-## Installation
+## Installation And Set Up
 
 To start using this extension, follow these steps:
 
 1. Download the extension from the Chrome Web Store 
-2. Add the extension to your Chrome browser.
-3. Open the eBay website and log in to your account.
-4. Select the specific one-month period for which you want to generate sales data.
-5. Click the "Generate eBay Sales" button to create a table of your sales.
-6. Use the "Copy to Clipboard" button to copy the sales data if needed at this point.
-7. After generating eBay sales, the "Get Post Fees" button will become enabled.
-8. Click the "Get Post Fees" button to create a table of postage fees.
-9. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
+2. Add the extension to your Chrome browser
+3. **For getting copyable sales/post data**
+4. Open the eBay website, log in to your account go to the performance page (or use the link in the extension)
+5. Select the specific one-month period for which you want to generate sales data.
+6. In the chrome extension, click the "Generate eBay Sales" button to create a table of your sales.
+7. Use the "Copy to Clipboard" button to copy the sales data if needed at this point.
+8. After generating eBay sales, the "Get Post Fees" button will become enabled.
+9. Click the "Get Post Fees" button to create a table of postage fees.
+10. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
+11. **To configure youre edit form template in my post business**
+12. check/uncheck each checkbox as you see fit for your needs
 
 **Note:** Make sure to load the eBay sales link and Australia Post link in the extension in the correct order (eBay first, then Australia Post).
 
