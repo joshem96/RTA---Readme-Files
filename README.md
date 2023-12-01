@@ -4,10 +4,9 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 
 ## Table of Contents
 
+- [Installation](#installation)
 - [Sales & Post Fees Summary](#Sales-&-Post-Fees-Summary)
 - [My Post Business Tools](#My-Post-Business-Tools)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Known Issues](#known-issues)
 - [Contact](#contact)
 
@@ -46,7 +45,7 @@ To start using this extension, follow these steps:
 
 - **Australia Post Timeout:** Australia Post may automatically log you out quickly. If you encounter an error such as "Post Fees Not Generated" despite being logged in, you might have been logged out. Please log in again.
 
-- If you encounter any other issues, we recommend fully loading the eBay page first, followed by the Australia Post page, and then generating your sales data. Ensure that you have selected a valid one-month date range.
+- If you encounter any other issues, we recommend fully loading the eBay page first, followed by the Australia Post page, and then generating your sales data via the "Get Ebay Sales" button. Ensure that you have selected a valid one-month date range in ebay as well.
 
 ## Thank you!
 
