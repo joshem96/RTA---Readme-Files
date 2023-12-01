@@ -4,46 +4,20 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 
 ## Table of Contents
 
-- [Features](#features)
+- [Sales & Post Fees Summary Features](#sales-post-fees-summary-features)
+- [My Post Business Draft Edit Instructions](#my-post-business-draft-edit-instructions)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Known Issues](#known-issues)
 - [Contact](#contact)
 
-## Features
+## Sales & Post Fees Summary Features
 
-- **eBay Sales Summary:** Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
+### eBay Sales Summary
+Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
 
-- **Australia Post Fees Summary:** Generate a table displaying postage fees and corresponding dates. 
+### Australia Post Fees Summary
+Generate a table displaying postage fees and corresponding dates.
 
-- **Data Copying:** Easily copy your eBay sales and Australia Post fees data to the clipboard.
-
-## Installation
-
-To start using this extension, follow these steps:
-
-1. Download the extension from the Chrome Web Store 
-2. Add the extension to your Chrome browser.
-3. Open the eBay website and log in to your account.
-4. Select the specific one-month period for which you want to generate sales data.
-5. Click the "Generate eBay Sales" button to create a table of your sales.
-6. Use the "Copy to Clipboard" button to copy the sales data if needed at this point.
-7. After generating eBay sales, the "Get Post Fees" button will become enabled.
-8. Click the "Get Post Fees" button to create a table of postage fees.
-9. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
-
-**Note:** Make sure to load the eBay sales link and Australia Post link in the extension in the correct order (eBay first, then Australia Post).
-
-## Known Issues
-
-- **Random Character Bug:** Occasionally, random characters may appear in the eBay data when the extension is used for the first time or after clearing your cache. If this happens, a notification will prompt you to refresh your browser.
-
-- **Australia Post Timeout:** Australia Post may automatically log you out quickly. If you encounter an error such as "Post Fees Not Generated" despite being logged in, you might have been logged out. Please log in again.
-
-- If you encounter any other issues, we recommend fully loading the eBay page first, followed by the Australia Post page, and then generating your sales data. Ensure that you have selected a valid one-month date range.
-
-## Thank you!
-
-Thank you so much for using this tool in your workflow! We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
-
-We're always eager to hear from our users and improve the extension based on your feedback. We hope you find this tool helpful!
+### Data Copying
+Easily copy your eBay sales and/or Australia Post
