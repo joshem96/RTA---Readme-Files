@@ -5,10 +5,10 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Sales & Post Fees Summary](#Sales-&-Post-Fees-Summary)
+- [Sales & Post Fees Summary](#sales-&-post-fees-summary)
 - [My Post Business Tools](#My-Post-Business-Tools)
 - [Known Issues](#known-issues)
-- [Contact](#contact)
+- [Ending Notes](#thank-you!)
 
 ## Installation
 
