@@ -11,19 +11,6 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 - [Known Issues](#known-issues)
 - [Contact](#contact)
 
-## Sales & Post Fees Summary
-
-- **eBay Sales Summary:** Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
-
-- **Australia Post Fees Summary:** Generate a table displaying postage fees and corresponding dates. 
-
-- **Data Copying:** Easily copy your eBay sales and or Australia Post fees data to the clipboard. Use the drop down to select which data you want to copy.
-
-## My Post Business Tools
-
-- **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove ebay tag in address field
-- **Info Overlays:** Turn on overlays which can present user data fixed on screen while editing so you can easily see vital info about the item being processed.
-
 ## Installation
 
 To start using this extension, follow these steps:
@@ -39,6 +26,19 @@ To start using this extension, follow these steps:
 9. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
 
 **Note:** Make sure to load the eBay sales link and Australia Post link in the extension in the correct order (eBay first, then Australia Post).
+
+## Sales & Post Fees Summary
+
+- **eBay Sales Summary:** Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
+
+- **Australia Post Fees Summary:** Generate a table displaying postage fees and corresponding dates. 
+
+- **Data Copying:** Easily copy your eBay sales and or Australia Post fees data to the clipboard. Use the drop down to select which data you want to copy.
+
+## My Post Business Tools
+
+- **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove ebay tag in address field
+- **Info Overlays:** Turn on overlays which can present user data fixed on screen while editing so you can easily see vital info about the item being processed.
 
 ## Known Issues
 
