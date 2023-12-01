@@ -4,7 +4,7 @@ Welcome to the Ecommerce Tools Australia Chrome Extension! This extension is des
 
 ## Table of Contents
 
-- [Installation](#installation-and-set-up)
+- [Installation And Set Up](#installation-and-set-up)
 - [Sales & Post Fees Summary](#sales-and-post-fees-summary)
 - [My Post Business Tools](#My-Post-Business-Tools)
 - [Known Issues](#known-issues)
