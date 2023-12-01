@@ -1,6 +1,6 @@
-# eBay and Australia Post Summary Chrome Extension
+# Ecommerce Tools Australia
 
-Welcome to the eBay and Australia Post Summary Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post. With just a few clicks, you can quickly access valuable information about your eBay sales and postage costs.
+Welcome to the Re Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post. With just a few clicks, you can quickly access valuable information about your eBay sales and postage costs.
 
 ## Table of Contents
 
