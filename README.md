@@ -5,10 +5,10 @@ Welcome to the eBay and Australia Post Summary Chrome Extension! This extension 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Sales & Post Fees Summary](#sales-&-post-fees-summary)
+- [Sales & Post Fees Summary](#sales-and-post-fees-summary)
 - [My Post Business Tools](#My-Post-Business-Tools)
 - [Known Issues](#known-issues)
-- [Ending Notes](#thank-you!)
+- [Ending Notes](#thank-you)
 
 ## Installation
 
@@ -26,7 +26,7 @@ To start using this extension, follow these steps:
 
 **Note:** Make sure to load the eBay sales link and Australia Post link in the extension in the correct order (eBay first, then Australia Post).
 
-## Sales & Post Fees Summary
+## Sales And Post Fees Summary
 
 - **eBay Sales Summary:** Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
 
@@ -47,7 +47,7 @@ To start using this extension, follow these steps:
 
 - If you encounter any other issues, we recommend fully loading the eBay page first, followed by the Australia Post page, and then generating your sales data via the "Get Ebay Sales" button. Ensure that you have selected a valid one-month date range in ebay as well.
 
-## Thank you!
+## Thank you
 
 Thank you so much for using this tool in your workflow! We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
 
