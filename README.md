@@ -70,4 +70,4 @@ Please know there will be a lot more features to come in the future as well, we'
 
 We're always eager to hear from our users and improve the extension based on your feedback. We hope you find this tool helpful!
 
-Created by Koala Code, see our website <a href='https://koalacode.com.au/'> here </a>
+Created by <a href='https://koalacode.com.au/'> Koala Code Development</a>
