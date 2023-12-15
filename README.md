@@ -45,7 +45,9 @@ To start using this extension, follow these steps:
 
 ## My Post Business Tools
 
-![reseller tools screen shot 2](https://github.com/joshem96/RTA---Readme-Files/assets/31944980/069953ac-a59b-460d-b569-140fef37e04e)
+![reseller tools screen shot 2](https://github.com/joshem96/RTA---Readme-Files/assets/31944980/264ba5c6-23e9-49b4-91f6-593967fc48fc)
+
+
 
 - **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove phone number.
 - **Info Overlays:** Turn on overlays which can present user data fixed on screen while editing so you can easily see vital info about the item being processed.
