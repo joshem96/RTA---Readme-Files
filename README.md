@@ -38,15 +38,19 @@ To start using this extension, follow these steps:
 
 - **Australia Post Fees Summary:** Generate a table displaying postage fees and corresponding dates. 
 
-- **Data Copying:** Easily copy your eBay sales and or Australia Post fees data to the clipboard. Use the drop down to select which data you want to copy.
+- **Data Copying:** Easily copy your eBay sales and or Australia Post fees data to the clipboard. Use the drop down to select which data you want to copy. Great for copying data to a spreadsheet without needing to download a CSV file.
 
   <img width="330" alt="Screenshot 2023-12-15 at 2 58 30 pm" src="https://github.com/joshem96/RTA---Readme-Files/assets/31944980/c4fafa47-c9f4-4f1a-9968-29d8a7cf3958">
 
 
 ## My Post Business Tools
 
-- **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove ebay tag in address field
+![reseller tools screen shot 2](https://github.com/joshem96/RTA---Readme-Files/assets/31944980/069953ac-a59b-460d-b569-140fef37e04e)
+
+- **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove phone number.
 - **Info Overlays:** Turn on overlays which can present user data fixed on screen while editing so you can easily see vital info about the item being processed.
+
+<img width="496" alt="Screenshot 2023-12-15 at 3 09 37 pm" src="https://github.com/joshem96/RTA---Readme-Files/assets/31944980/0607cc70-d206-4ef3-beea-779ea1adda60">
 
 ## Known Issues
 
@@ -60,4 +64,8 @@ To start using this extension, follow these steps:
 
 Thank you so much for using this tool in your workflow! We hope you find this extension useful! If you have any questions, feature suggestions, or if you encounter any bugs, please feel free to reach out to us. Your feedback is highly appreciated, and we're here to assist you.
 
+Please know there will be a lot more features to come in the future as well, we're just getting started!
+
 We're always eager to hear from our users and improve the extension based on your feedback. We hope you find this tool helpful!
+
+Created by Koala Code, see our website here: https://koalacode.com.au/
