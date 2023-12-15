@@ -31,11 +31,17 @@ To start using this extension, follow these steps:
 
 ## Sales And Post Fees Summary
 
+![Reseller Tools - Screen shot 1](https://github.com/joshem96/RTA---Readme-Files/assets/31944980/63bfbbbd-30fb-4cfb-860e-8f63156d1008)
+
+
 - **eBay Sales Summary:** Generate a table of all your eBay sales within a specific one-month period. The table includes item titles, links, and net sale amounts.
 
 - **Australia Post Fees Summary:** Generate a table displaying postage fees and corresponding dates. 
 
 - **Data Copying:** Easily copy your eBay sales and or Australia Post fees data to the clipboard. Use the drop down to select which data you want to copy.
+
+  <img width="330" alt="Screenshot 2023-12-15 at 2 58 30 pm" src="https://github.com/joshem96/RTA---Readme-Files/assets/31944980/c4fafa47-c9f4-4f1a-9968-29d8a7cf3958">
+
 
 ## My Post Business Tools
 
