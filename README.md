@@ -1,6 +1,6 @@
-# Ecommerce Tools Australia
+# Reseller Tools AU
 
-Welcome to the Ecommerce Tools Australia Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post, along with other providing helpful features to make your processes within your ecommerce store more efficient and convenient. 
+Welcome to the Reseller Tools AU Chrome Extension! This extension is designed to simplify the process of gathering sales data from eBay and postage fees from Australia Post, along with other helpful features to make your processes within your ecommerce store more efficient and convenient. 
 
 ## Table of Contents
 
@@ -22,10 +22,11 @@ To start using this extension, follow these steps:
 6. In the chrome extension, click the "Generate eBay Sales" button to create a table of your sales.
 7. Use the "Copy to Clipboard" button to copy the sales data if needed at this point.
 8. After generating eBay sales, the "Get Post Fees" button will become enabled.
-9. Click the "Get Post Fees" button to create a table of postage fees.
-10. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
-11. **To configure youre edit form template in my post business**
-12. check/uncheck each checkbox as you see fit for your needs
+9. Click the link or go to the transaction page on my post business
+10. In the extension, Click the "Get Post Fees" button to create a table of postage fees.
+11. Use the dropdown menu to select whether you want to copy eBay sales, Australia Post fees, or both.
+12. **To configure youre edit form template in my post business**
+13. check/uncheck each checkbox as you see fit for your needs
 
 **Note:** Make sure to load the eBay sales link and Australia Post link in the extension in the correct order (eBay first, then Australia Post).
 
