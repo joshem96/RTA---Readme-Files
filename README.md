@@ -51,7 +51,7 @@ To start using this extension, follow these steps:
 
 
 - **Default Form Settings:** Automatically turn on tracking, "no" for dangerous goods, clear description/reference and remove phone number.
-- **Info Overlays:** Toggle overlays which present user data on screen while editing so you can easily see vital information about your items.
+- **Info Overlays:** Toggle overlays which present user data on screen while editing a draft order so you can easily see vital information about your items.
 
 <img width="496" alt="Screenshot 2023-12-15 at 3 09 37 pm" src="https://github.com/joshem96/RTA---Readme-Files/assets/31944980/0607cc70-d206-4ef3-beea-779ea1adda60">
 
